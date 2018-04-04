@@ -1,0 +1,352 @@
+Addoraca
+Aidini
+Airén
+Alarije
+Albalonga (grape)
+Albana (grape)
+Albanella (grape)
+Albanello bianco
+Albaranzeuli bianco
+Albarello (grape)
+Albariño
+Albarola
+Albillo
+Aligoté
+Alionza
+Altesse
+Amigne
+Ansonica
+Antão Vaz
+Arbane
+Arbois (grape)
+Arilla
+Arinto
+Arneis
+Arnsburger
+Arrufiac
+Arvesiniadu
+Asprinio bianco
+Assyrtiko
+Athiri
+Aubin blanc
+Aubin vert
+Aurore (grape)
+Auxerrois blanc
+Avesso
+Azal branco
+B
+Bacchus (grape)
+Baco blanc
+Balzac blanc
+Baratuciat
+Barbera bianca
+Bariadorgia
+Baroque (grape)
+Bayan Shirey
+Beba (grape)
+Besgano bianco
+Bia blanc
+Bianca (grape)
+Biancame
+Bianchetta Trevigiana
+Bianco d'Alessano
+Biancolella
+Biancone di Portoferraio
+Bical (grape)
+Bigolona
+Blatterle
+Boal (grape)
+Bogdanuša
+Bombino bianco
+Borba blanca
+Bosco (grape)
+Bourboulenc
+Bouvier (grape)
+Breidecker
+Bronner (grape)
+Brustiano bianco
+Brustiano faux
+Bukettraube
+Burger (grape)
+Cabernet blanc
+Caíño blanco
+Camaralet
+Caprettone
+Carricante
+Cascarolo bianco
+Cassady (grape)
+Catarratto
+Cayetana
+Cayuga White
+Cereza
+Chambourcin
+Chardonel
+Chardonnay
+Chasan
+Chasselas
+Chenel
+Chenin blanc
+Chinuri
+Clairette blanche
+Claverie
+Cococciola
+Coda di Pecora
+Coda di Volpe
+Colombard
+Completer
+Cortese
+Courbu
+Crouchen
+Cserszegi Fűszeres
+Debina (grape)
+Debit (grape)
+Diamond (grape)
+Dimiat
+Dinka (grape)
+Doña Blanca
+Donzelinho branco
+Doradillo
+Drupeggio
+Durella
+Ehrenbreitsteiner
+Ehrenfelser
+Elbling
+Emir (grape)
+Encruzado
+Erbaluce
+Escanyavella
+Ezerjó
+Faberrebe
+Falanghina
+Favorita (grape)
+Fernão Pires
+Fetească albă
+Fetească regală
+Fiano (grape)
+Findling
+Flora (grape)
+Folle blanche
+Forastera
+Forastera (Spanish grape)
+Freisamer
+Furmint
+Gamay Blanc Gloriod
+Garganega
+Garrido Fino
+Gewürztraminer
+Giró blanc
+Glera (grape)
+Godello
+Goldburger
+Goldriesling
+Gouais blanc
+Graisse
+Grasă de Cotnari
+Grechetto
+Greco (grape)
+Green Hungarian
+Grenache blanc
+Grillo
+Gringet
+Grk Bijeli
+Gros Manseng
+Grüner Veltliner
+Gutenborner
+Hárslevelű
+Hebén
+Hibernal (grape)
+Hondarrabi Zuri
+Humagne Blanche
+Huxelrebe
+Incrocio Manzoni 1.50
+Irsai Olivér
+Jacquère
+Juhfark
+Juwel (grape)
+Kabar (grape)
+Kanzler (grape)
+Kéknyelű
+Kerner (grape)
+Knipperlé
+Koshu (grape)
+Kövérszőlő
+Krstač
+L'Acadie blanc
+La Crosse (grape)
+Lagarino bianco
+Lagorthi
+Lauzet
+Len de l'El
+Listán de Huelva
+Loureira
+Luglienga
+Macabeo
+Maceratino
+Madeleine Angevine
+Malagousia
+Malvar (grape)
+Malvasia
+Mantonico bianco
+Manzoni Bianco
+Maraština
+Marawi (grape)
+Marsanne
+Marzemina bianca
+Mauzac (grape)
+Melody (grape)
+Melon de Bourgogne
+Merlot blanc
+Merseguera
+Meslier-Saint-François
+Minella bianca
+Misket Cherven
+Molette
+Mondeuse blanche
+Montepila
+Montonico bianco
+Montù
+Morio Muscat
+Moscato Giallo
+Moschofilero
+Mtsvane
+Müller-Thurgau
+Muscadelle
+Muscat (grape)
+Muscat Blanc à Petits Grains
+Muscat of Alexandria
+Muscat Ottonel
+Muscat d'Eisenstadt
+Muscat Rose à Petits Grains
+Muscat Rouge à Petits Grains
+Narince (grape)
+Nasco (grape)
+Neuburger
+Neyret
+Noah (grape)
+Nobling
+Nosiola
+Nuragus (grape)
+Ondenc
+Optima (grape)
+Orléans (grape)
+Ortega (grape)
+Ortrugo
+Österreichisch-Weiß
+Pallagrello bianco
+Palomino (grape)
+Pampanuto
+Pardillo
+Parellada
+Pascal blanc
+Passerina (grape)
+Pearl of Csaba
+Pecorino (grape)
+Pedro Giménez
+Pedro Ximénez
+Perle (grape)
+Petit Manseng
+Petit Meslier
+Petite Arvine
+Peurion
+Picardan
+Picolit
+Pigato
+Pinot blanc
+Pinot gris
+Piquepoul
+Plavay
+Pošip
+Prié blanc
+Prosecco
+Rabo de Ovelha
+Räuschling
+Ravat blanc
+Regner
+Reichensteiner
+Retagliado bianco
+Rèze
+Rhoditis
+Ribolla Gialla
+Rieslaner
+Riesling
+Rkatsiteli
+Robola
+Romorantin
+Rossese bianco
+Roter Veltliner
+Rotgipfler
+Roublot
+Roupeiro
+Roussanne
+Rovello bianco
+Sacy (grape)
+Saint-Pierre Doré
+Sarfeher
+Sauvignon blanc
+Sauvignon gris
+Sauvignon vert
+Savagnin
+Savagnin Rose
+Savatiano
+Scheurebe
+Sémillon
+Sercial
+Seyval blanc
+Siegerrebe
+Silvaner
+Smederevka
+Souvignier gris
+St. Pepin (grape)
+Sumoll
+Tamarez
+Taminga
+Tamjanika
+Tempranillo blanco
+Terrantez
+Terret blanc
+Terret gris
+Thrapsathiri
+Timorasso
+Torrontés
+Tourbat
+Traminette
+Trebbiano
+Treixadura
+Trousseau gris
+Tsolikouri
+Valvin muscat
+Vega (grape)
+Verdea (grape)
+Verdeca
+Verdejo
+Verdelho
+Verdello (grape)
+Verdesse
+Verdicchio
+Verdiso
+Verduzzo
+Verduzzo Trevigiano
+Vermentino
+Vernaccia
+Vernaccia di Oristano
+Versoaln
+Vespaiola
+Vidal blanc
+Vigiriega
+Vignoles (grape)
+Vilana
+Viognier
+Viosinho
+Vital (grape)
+Vitovska
+Vugava
+Weldra
+Welschriesling
+Swish Beverages
+Würzer (grape)
+Xarel·lo
+Xynisteri
+Zalema
+Zéta
+Zierfandler
+Žilavka
